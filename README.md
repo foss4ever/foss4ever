@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @foss4ever
 - 👀 I’m interested in all things Linux - especially Free and Open Source Software.
 - 🌱 I’m currently learning things such as Ansible, Bash scripting, Python.
-- 💞️ I’m looking to collaborate on anything apart from actual software development / coding (am a sysadmin, not a developer).
+- 💞️ I’m looking to collaborate on anything apart from full-fledged software development (am a sysadmin, not a developer).
 - 📫 How to reach me: via sending me a message here on Github
 
 <!---
